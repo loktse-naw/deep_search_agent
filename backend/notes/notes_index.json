@@ -49,10 +49,70 @@
         "report"
       ],
       "created_at": "2026-06-15T15:20:23.322515"
+    },
+    {
+      "id": "note_20260615_155649_5",
+      "title": "任务 5: 综合方案与案例",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_5"
+      ],
+      "created_at": "2026-06-15T15:56:49.279778"
+    },
+    {
+      "id": "note_20260615_155649_6",
+      "title": "任务 2: UAV巡检安全风险",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-06-15T15:56:49.531369"
+    },
+    {
+      "id": "note_20260615_155649_7",
+      "title": "任务 1: YOLO检测传输线",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-06-15T15:56:49.719580"
+    },
+    {
+      "id": "note_20260615_155650_8",
+      "title": "任务 3: 数据集与标注方法",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-06-15T15:56:50.877602"
+    },
+    {
+      "id": "note_20260615_155720_9",
+      "title": "任务 4: 实时性与部署优化",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-06-15T15:57:20.077163"
+    },
+    {
+      "id": "note_20260615_155801_10",
+      "title": "研究报告：基于yolo的uav检测传输线安全",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-06-15T15:58:01.205471"
     }
   ],
   "metadata": {
     "created_at": "2026-06-15T14:44:21.865750",
-    "total_notes": 5
+    "total_notes": 11
   }
 }
